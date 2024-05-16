@@ -1,5 +1,4 @@
 __pycache__
-output/*
 data/audio/maestro-v3.0.0/*
 data/audio/audio_chunks_10s/*
 data/audio/audio_chunks_20s/*
@@ -7,5 +6,7 @@ data/styleGAN
 data/stft_arrays/*
 data/clipped_stft/*
 data/resized_stft/*
-data/spectograms/*
+data/spectrograms/*
+data/dc_gan_stuff/*
 *.zip
+params/*
